@@ -6,3 +6,4 @@ __pycache__/
 local_settings.py
 db.sqlite3
 media
+/fragua_media_web/.idea
